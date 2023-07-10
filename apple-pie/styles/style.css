@@ -22,3 +22,82 @@ body {
 
 /* STYLES */
 /* Write your CSS below */
+
+#title {
+  height: 650px;
+  background-image: url(../images/apple-pie.jpg);
+  background-size: 100%;
+
+}
+
+h1 {
+  color: white;
+  height: 650px;
+  font-size: 60px;
+  text-align: center;
+  padding-top: 300px;
+}
+
+#intro {
+  padding: 5%;
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: center
+}
+
+#intro p{
+  font-size: 25px;
+  text-align: justify;
+}
+
+#intro img{
+  width: 50%;
+  padding-top: 25px;
+}
+
+#ingre {
+  height: 400px;
+  padding-top: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.list-ingre {
+  border-top: solid 3px black;
+  border-bottom: solid 3px black;
+
+}
+
+#ingre h2 {
+  font-size: 25px;
+  padding-bottom: 10px;
+}
+
+#ingre ul {
+  font-size: 20px;
+  padding-bottom: 25px;
+}
+
+#ingre img {
+  width: 40%;
+  display: block;
+  margin: auto;
+  padding-bottom: 30px;
+}
+
+#steps {
+  height: 300px;
+  padding-left: 100px;
+  padding-right: 100px;
+
+}
+
+#steps h3 {
+  font-size: 25px;
+  padding-top: 25px;
+  padding-bottom: 10px;
+}
+
+#steps ol{
+  font-size: 20px;
+}
